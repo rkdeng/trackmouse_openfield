@@ -14,5 +14,12 @@ pic
 pic
 
 
-3. Use vd_analyze2_extractdata.m to extract data. Load the files from vd_click1.m and vd_analyze1_mousexy.m. Key parameters and mouse movement trajectories will be generated.
+3. Use vd_analyze2_extractdata.m to extract data. Load the files from vd_click1.m and vd_analyze1_mousexy.m. Key parameters and mouse movement trajectories will be generated.  
+
+
+pic  
+
+
+How to optimize the detection?  
+Ah, email me, we can talk... Don't feel like to type anymore...
 

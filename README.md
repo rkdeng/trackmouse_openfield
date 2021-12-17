@@ -7,7 +7,7 @@ Developed in MATLAB2018b with INTERX function from NS (https://www.mathworks.com
 How to use:
 1. Use vd_click1.m to manually define the open field maze in the video. This create a mask to eliminate areas outside of the open field box. Because I need to eliminate unwanted dark pixels in the video... The clicked locations will be save in a mat file. You can check the clicked locations using vd_click1_1check.m.
 
-pic  
+ <img src="pics/1.png">  
 
 2. Use vd_analyze1_mousexy.m to locate mouse in every frame. Load the file from vd_click1.m. At the beginning, click 4 points to crop the video. So the code can run faster.  
 

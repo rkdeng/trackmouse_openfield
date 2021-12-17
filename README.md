@@ -11,13 +11,13 @@ How to use:
 
 2. Use vd_analyze1_mousexy.m to locate mouse in every frame. Load the file from vd_click1.m. At the beginning, click 4 points to crop the video. So the code can run faster.  
 
-pic
+ <img src="pics/2.png">  
+ <img src="pics/3.png">  
 
 
 3. Use vd_analyze2_extractdata.m to extract data. Load the files from vd_click1.m and vd_analyze1_mousexy.m. Key parameters and mouse movement trajectories will be generated.  
 
-
-pic  
+ <img src="pics/4.png">  
 
 
 How to optimize the detection?  

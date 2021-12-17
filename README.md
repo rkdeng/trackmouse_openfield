@@ -19,6 +19,7 @@ How to use:
 
  <img src="pics/4.png">  
 
+This is a db/db mouse. That's why it has little movement.  
 
 How to optimize the detection?  
 Ah, email me,  
